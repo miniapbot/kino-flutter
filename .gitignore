@@ -48,3 +48,8 @@ app.*.map.json
 .widget_preview/
 /android/key.properties
 /android/*.jks
+
+/android/key.properties
+/android/*.jks
+key.properties
+*.jks
